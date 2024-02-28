@@ -48,4 +48,14 @@
 #     print ("your nubmer less than 5")
 
 
+user_data = int(input("enter the number: "))
+
+if user_data > 8:
+    print ("your nubmer bigger than 8")
+if user_data == 8:
+    print ("your nubmer equal to 8")
+if user_data < 8:
+    print ("your nubmer less than 8")
+
+
 
